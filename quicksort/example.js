@@ -59,4 +59,5 @@ function partition(array, left, right) {
   return left;
 }
 
-console.log(quickSort([56, 87, 18, 92, 42, 31, 44, 82, 36, 91]));
+// console.log(quickSort([56, 87, 18, 92, 42, 31, 44, 82, 36, 91]));
+console.log(quickSort([956, 1056, 1432, 1045, 1130, 930, 356, 4, 568, 18, 931, 932, 64, 42, 1476, 931]));
